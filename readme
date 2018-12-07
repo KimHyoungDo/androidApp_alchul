@@ -1,6 +1,1 @@
-first table name -> user
-user -> userId, userPassword, userName, userPhoneNum, userStat      전부다 notnull, userId primairy key
-
-db name -> alchul
-
-
+﻿이 프로젝트는 알바생과 사장님의 커뮤니케이션 및 출퇴근 기록 저장을 해주는 어플리케이션입니다.
